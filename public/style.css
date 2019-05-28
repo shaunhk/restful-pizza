@@ -1,0 +1,22 @@
+body {
+  display: flex;
+  background-color: #CB2D6F;
+  font-family: serif;
+}
+
+.main-link{
+  align-items: center;
+}
+.order {
+  display: flex;
+  align-content: center;
+  flex-direction: column;
+  background-color: #14A098;
+  color: white;
+}
+
+.container {
+  display: flex;
+  align-items: center;
+  flex-flow: column wrap;
+}
